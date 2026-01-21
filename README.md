@@ -40,4 +40,4 @@ Pregnancy Vitals Tracker is an Android application that helps expectant mothers 
 
 
 ## 👤 Author
-- **Name:** Your Name
+- **Name:** Balaji
